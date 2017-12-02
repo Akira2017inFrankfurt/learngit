@@ -1,4 +1,4 @@
 hello Git
-i want to be a very strong Coder!
-please help me to be the my no.1
+i want to be a very strong Coder! git is a distributed version control system
+please help me to be the my no.1 git is free software
 !!!

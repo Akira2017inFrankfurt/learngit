@@ -10,3 +10,11 @@ hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 地址： https://stackoverflow.com/questions/24357108/git-updates-were-rejected-because-the-remote-contains-work-that-you-do-not-have/42198976#42198976
+
+然后我紧接着又试了一次
+发现使用这个命令将代码推送到指定仓库的时候
+以前存在的那几个就直接不见了
+
+所以 现在很有必要的就是 看莫烦Python的中间的内容
+关键就在分支冲突上
+肯定是这个原因引起的

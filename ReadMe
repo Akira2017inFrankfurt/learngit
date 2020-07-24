@@ -1,0 +1,12 @@
+git push -f origin master
+
+关于下面这个错误的解决：
+! [rejected]        master -> dev (fetch first)
+error: failed to push some refs to 'https://myusername@bitbucket.org/repo_user/repo_name.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+地址： https://stackoverflow.com/questions/24357108/git-updates-were-rejected-because-the-remote-contains-work-that-you-do-not-have/42198976#42198976
